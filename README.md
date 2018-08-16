@@ -1,2 +1,2 @@
 # Drag-and-drop-challenge
-Collage de Gatitos
+Collagegi de Gatitos
